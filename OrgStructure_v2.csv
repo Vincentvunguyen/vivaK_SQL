@@ -1,0 +1,25 @@
+﻿job_id,job_title,min_salary,max_salary,department_name,Reports_to
+1,President,20000,40000,Executive,
+2,Administration Vice President,15000,30000,Executive,1
+3,Operation Vice President,15000,30000,Executive,1
+4,Accounting Manager,8200,16000,Accounting,2
+5,General Manager ,9000,15000,Administration,2
+6,Marketing Manager,9000,15000,Marketing,3
+7,Public Relations Manager,9000,15000,Public Relations,3
+8,Purchasing Manager,8000,15000,Purchasing,3
+9,Human Resources Manager,9000,15000,Human Resources,2
+10,Stock Manager,5500,8500,Purchasing,3
+11,Finance Manager,8200,16000,Finance,2
+12,Sales Manager,10000,20000,Sales,3
+13,IT Manager,9000,15000,IT,2
+14,Accountant,4200,9000,Accounting,4
+15,Administration Assistant,3000,6000,Administration,5
+16,Public Accountant,4200,9000,Finance,11
+17,Human Resources Representative,4000,9000,Human Resources,9
+18,Programmer,4000,10000,IT,13
+19,Marketing Representative,4000,9000,Marketing,6
+20,Public Relations Representative,4500,10500,Public Relations,7
+21,Purchasing Clerk,2500,5500,Purchasing,8
+22,Stock Clerk,2000,5000,Purchasing,10
+23,Sales Representative,6000,12000,Sales,12
+24,Shipping Clerk,2500,5500,Shipping,12
